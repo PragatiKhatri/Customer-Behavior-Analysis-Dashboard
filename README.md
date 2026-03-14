@@ -1,4 +1,6 @@
 # Customer Behavior Analysis Dashboard 
+![Dashboard Preview](Dashboard.png)
+
 
 # Overview
 This project analyzes customer shopping behavior using Power BI.  
